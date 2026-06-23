@@ -2,26 +2,26 @@
   "business": {
     "name": "Mustang Service Center",
     "shortName": "Mustang Service Center",
-    "tagline": "Dallas' Premier Ford Mustang Specialists",
+    "tagline": "Expert Mustang Repair in Dallas, TX",
     "niche": "Auto Mechanic",
     "phone": "(214) 824-6716",
     "address": "Done",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri: 8:00 AM - 5:30 PM, Sat: 8:00 AM - 12:00 PM",
+    "hours": "Mon-Fri 8:00 AM - 5:30 PM, Sat 9:00 AM - 2:00 PM",
     "ctaLabel": "Schedule Appointment",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Mustang Service Center | Expert Ford Mustang Repair in Dallas, TX",
-    "description": "Trust Dallas' top-rated Mustang specialists for expert repair, maintenance, and performance upgrades. Call (214) 824-6716 for reliable service."
+    "title": "Mustang Service Center | Expert Mustang Repair in Dallas, TX",
+    "description": "Trust Mustang Service Center in Dallas, TX for expert Mustang repair and maintenance. Certified technicians, fast turnaround, and affordable pricing. Call (214) 824-6716 today!"
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas' Trusted Mustang Experts Since 1995",
-      "headline": "Expert Ford Mustang Repair & Performance Service in Dallas",
-      "subheadline": "From classic restoration to modern performance tuning, our certified technicians deliver precision care for every Mustang generation.",
-      "primaryCta": "Book Your Service",
-      "secondaryCta": "Call (214) 824-6716"
+      "eyebrow": "Dallas' Premier Mustang Specialists",
+      "headline": "Expert Mustang Repair & Maintenance",
+      "subheadline": "From classic models to modern performance, we keep your Mustang running at its best.",
+      "primaryCta": "Book an Appointment",
+      "secondaryCta": "Explore Services"
     },
     "stats": [
       {
@@ -29,292 +29,288 @@
         "label": "Years Experience"
       },
       {
-        "value": "5,000+",
+        "value": "5000+",
         "label": "Mustangs Serviced"
       },
       {
         "value": "4.9",
-        "label": "Average Rating"
+        "label": "Customer Rating"
       },
       {
         "value": "100%",
-        "label": "Customer Satisfaction"
+        "label": "Satisfaction Guaranteed"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Full-Service Care",
-        "title": "Complete Mustang Maintenance & Repair",
-        "body": "We handle everything from routine oil changes to complex engine overhauls. Our factory-trained technicians use state-of-the-art diagnostics to keep your Mustang running at its best.",
+        "eyebrow": "Precision & Passion",
+        "title": "Specialized Mustang Service",
+        "body": "We understand Mustangs inside and out. Our team uses factory-grade tools and diagnostics to ensure your vehicle gets the care it deserves.",
         "bullets": [
-          "Factory-grade diagnostic equipment",
-          "Genuine OEM and high-performance parts",
-          "Transparent pricing with detailed estimates"
+          "Factory-certified diagnostics",
+          "OEM and performance parts",
+          "Engine, transmission, and electrical experts"
         ],
         "reverse": false,
-        "cardLabel": "Free Inspection",
-        "cardTitle": "Complimentary Multi-Point Check",
-        "cardBody": "Every service includes a thorough inspection of brakes, fluids, belts, and tires at no extra cost."
+        "cardLabel": "Fast Turnaround",
+        "cardTitle": "Same-Day Service Available",
+        "cardBody": "Most repairs completed within hours, not days."
       },
       {
-        "eyebrow": "Performance Upgrades",
-        "title": "Unleash Your Mustang's Potential",
-        "body": "Whether you want more horsepower, better handling, or a custom look, our performance experts can spec and install the right upgrades for your driving style.",
+        "eyebrow": "Transparent & Trustworthy",
+        "title": "No Surprises, Just Quality",
+        "body": "We provide detailed estimates upfront and keep you informed throughout the repair process. No hidden fees, no unnecessary work.",
         "bullets": [
-          "Cold air intakes, exhaust, and tuning",
-          "Suspension and brake upgrades",
-          "Custom wheel and tire packages"
+          "Free initial inspections",
+          "Itemized estimates",
+          "Warranty on all repairs"
         ],
         "reverse": true,
-        "cardLabel": "Dyno Tuning",
-        "cardTitle": "Precision Dyno Tuning",
-        "cardBody": "Maximize power and drivability with our in-house dyno tuning service, tailored to your specific setup."
+        "cardLabel": "Customer Promise",
+        "cardTitle": "Peace of Mind Guaranteed",
+        "cardBody": "We stand behind our work with a 12-month/12,000-mile warranty."
       }
     ],
     "whyTitle": "Why Choose Mustang Service Center",
     "whyChooseUs": [
       {
-        "title": "Mustang-Only Specialists",
-        "description": "We work exclusively on Ford Mustangs, so our expertise is unmatched. Every technician knows the ins and outs of your pony car."
+        "title": "Mustang-Only Expertise",
+        "description": "We work exclusively on Mustangs, so we know every model and common issue inside out."
       },
       {
-        "title": "Transparent Pricing",
-        "description": "No surprises. We provide clear, upfront estimates and explain all recommended work before starting any service."
+        "title": "Certified Technicians",
+        "description": "Our team holds ASE certifications and undergoes continuous training on the latest Mustang technology."
       },
       {
-        "title": "Fast Turnaround",
-        "description": "We respect your time. Most routine services are completed same-day, and we keep you updated throughout the process."
+        "title": "Competitive Pricing",
+        "description": "Get top-quality service at fair prices. We offer estimates before any work begins."
       },
       {
-        "title": "Lifetime Warranty on Repairs",
-        "description": "We stand behind our work. All repairs are backed by a nationwide lifetime warranty for your peace of mind."
+        "title": "Convenient Dallas Location",
+        "description": "Easily accessible in Dallas with flexible scheduling and quick turnaround times."
       }
     ],
     "testimonials": [
       {
-        "quote": "These guys are Mustang wizards. They diagnosed a tricky electrical issue that two other shops couldn't figure out. Fair prices and great communication.",
+        "quote": "They fixed my 2015 GT's transmission issue quickly and at a fair price. I won't take my Mustang anywhere else.",
         "author": "Mike R.",
-        "role": "Dallas Mustang Owner"
+        "role": "Oak Lawn resident"
       },
       {
-        "quote": "I brought in my '65 Mustang for a full restoration. They treated it like it was their own car. The craftsmanship is incredible.",
-        "author": "Linda S.",
-        "role": "Classic Car Enthusiast"
+        "quote": "Knowledgeable and honest. They diagnosed a problem that another shop missed entirely.",
+        "author": "Jessica T.",
+        "role": "Lakewood Mustang owner"
       },
       {
-        "quote": "Best shop in Dallas for Mustangs. They installed a supercharger on my GT and the tune is perfect. Car runs like a beast.",
-        "author": "Chris M.",
-        "role": "Performance Customer"
+        "quote": "Fast service on my classic '65. They treated it like their own car.",
+        "author": "David K.",
+        "role": "Uptown enthusiast"
       }
     ],
     "cta": {
-      "headline": "Ready to Give Your Mustang the Care It Deserves?",
-      "subheadline": "Schedule your appointment today and experience the Mustang Service Center difference.",
-      "primaryCta": "Book Online",
-      "secondaryCta": "Call (214) 824-6716"
+      "headline": "Ready to Get Your Mustang Back on the Road?",
+      "subheadline": "Call us or book online for fast, reliable service.",
+      "primaryCta": "Call (214) 824-6716",
+      "secondaryCta": "Schedule Online"
     }
   },
   "servicesPage": {
-    "intro": "From routine maintenance to high-performance builds, our certified technicians deliver expert care for every Ford Mustang. Explore our full range of services below."
+    "intro": "At Mustang Service Center, we offer comprehensive repair and maintenance for all Mustang generations. From routine oil changes to major engine overhauls, our certified technicians have you covered."
   },
   "services": [
     {
       "icon": "01",
-      "title": "Routine Maintenance & Oil Changes",
-      "shortDescription": "Keep your Mustang running smoothly with our comprehensive maintenance services.",
-      "longDescription": "Regular maintenance is key to extending the life of your Mustang. We use high-quality synthetic oils and OEM filters to ensure optimal engine protection. Our multi-point inspection catches potential issues early, saving you time and money.",
+      "title": "Engine Repair & Diagnostics",
+      "shortDescription": "Expert engine diagnostics and repair for all Mustang models.",
+      "longDescription": "Our technicians use advanced diagnostic equipment to pinpoint engine issues quickly. Whether it's a misfire, loss of power, or check engine light, we'll get your Mustang running smoothly again.",
       "benefits": [
-        "Extends engine life and improves fuel economy",
-        "OEM-grade fluids and parts",
-        "Complimentary multi-point inspection with every service",
-        "Convenient scheduling and fast turnaround"
-      ],
-      "process": [
-        {
-          "title": "Inspection",
-          "description": "We perform a thorough visual and digital inspection of your vehicle, checking fluids, belts, hoses, brakes, and tires."
-        },
-        {
-          "title": "Service",
-          "description": "We drain old oil, replace the filter, and refill with the manufacturer-recommended oil grade. We also top off all other fluids."
-        },
-        {
-          "title": "Final Check",
-          "description": "We start the engine, check for leaks, verify oil pressure, and reset the maintenance reminder. You get a detailed report."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "How often should I change the oil in my Mustang?",
-          "answer": "For modern Mustangs with synthetic oil, every 7,500-10,000 miles is recommended. Older models may require changes every 3,000-5,000 miles. We'll advise based on your specific model and driving habits."
-        },
-        {
-          "question": "Do you use genuine Ford parts?",
-          "answer": "Yes, we use genuine OEM Ford oil filters and recommended oil grades to maintain your warranty and ensure optimal performance."
-        }
-      ],
-      "slug": "routine-maintenance-oil-changes"
-    },
-    {
-      "icon": "02",
-      "title": "Engine Diagnostics & Repair",
-      "shortDescription": "Advanced diagnostics to pinpoint and fix engine issues quickly.",
-      "longDescription": "Our state-of-the-art diagnostic equipment can identify issues in your Mustang's engine, transmission, and electronic systems. From check engine lights to performance problems, we provide accurate repairs with transparent pricing.",
-      "benefits": [
-        "Factory-level diagnostic scanners",
-        "Experienced technicians with Ford-specific training",
-        "Detailed explanations of issues and repair options",
-        "Lifetime warranty on parts and labor"
+        "Accurate diagnostics save time and money",
+        "OEM and high-performance parts available",
+        "Warranty on all engine repairs"
       ],
       "process": [
         {
           "title": "Diagnostic Scan",
-          "description": "We connect advanced scanners to read fault codes and live data from your Mustang's computer systems."
+          "description": "We connect to your Mustang's computer to read codes and live data."
         },
         {
-          "title": "Analysis",
-          "description": "Our technician interprets the data and performs additional tests (compression, fuel pressure, etc.) to confirm the root cause."
+          "title": "Inspection & Estimate",
+          "description": "We perform a thorough inspection and provide a detailed estimate."
         },
         {
-          "title": "Repair & Verify",
-          "description": "We complete the necessary repairs, clear codes, and test-drive your Mustang to ensure everything is working properly."
+          "title": "Repair & Test",
+          "description": "Once approved, we complete the repair and test drive to ensure quality."
         }
       ],
       "faqs": [
         {
-          "question": "What does a diagnostic service include?",
-          "answer": "We scan all engine and transmission control modules, check for pending codes, and perform a visual inspection of related components. You receive a detailed report with recommended repairs."
+          "question": "How much does an engine diagnostic cost?",
+          "answer": "Our diagnostic fee is $89, which is waived if you proceed with the repair."
         },
         {
-          "question": "Can you diagnose intermittent problems?",
-          "answer": "Yes, we can perform extended diagnostics and road tests to replicate intermittent issues. Our advanced tools capture data during the problem to identify elusive faults."
+          "question": "Do you work on Coyote engines?",
+          "answer": "Yes, we have extensive experience with Coyote and other modern Mustang engines."
         }
       ],
-      "slug": "engine-diagnostics-repair"
+      "slug": "engine-repair-diagnostics"
     },
     {
-      "icon": "03",
-      "title": "Performance Tuning & Upgrades",
-      "shortDescription": "Unlock your Mustang's full potential with custom tuning and bolt-on upgrades.",
-      "longDescription": "Whether you're looking for more horsepower, better throttle response, or improved handling, our performance experts have the knowledge and parts to transform your Mustang. We offer custom dyno tuning and installation of popular upgrades.",
+      "icon": "02",
+      "title": "Transmission Service",
+      "shortDescription": "Manual and automatic transmission repair and maintenance.",
+      "longDescription": "From fluid changes to full rebuilds, we handle all transmission needs for Mustangs. Our technicians are trained on both automatic and manual transmissions, including the latest 10-speed automatics.",
       "benefits": [
-        "Custom dyno tuning for maximum power and drivability",
-        "Expert installation of intakes, exhausts, superchargers, and more",
-        "Street and track-focused setups available",
-        "Before-and-after dyno graphs to show gains"
+        "Extends transmission life",
+        "Improves shifting performance",
+        "Competitive pricing on rebuilds"
       ],
       "process": [
         {
-          "title": "Consultation",
-          "description": "We discuss your goals, budget, and driving style to recommend the best combination of parts and tuning."
+          "title": "Fluid Check",
+          "description": "We inspect fluid level, color, and smell for signs of wear."
         },
         {
-          "title": "Installation",
-          "description": "Our certified technicians professionally install all components, ensuring proper fitment and function."
+          "title": "Road Test",
+          "description": "We test drive to identify shifting issues or noises."
         },
         {
-          "title": "Dyno Tuning",
-          "description": "We put your Mustang on our in-house dyno to fine-tune air/fuel ratios, timing, and boost for optimal performance and safety."
+          "title": "Service or Repair",
+          "description": "We perform the necessary service, from fluid flush to full rebuild."
         }
       ],
       "faqs": [
         {
-          "question": "Will tuning void my warranty?",
-          "answer": "Tuning can affect your powertrain warranty. We recommend checking with your dealer, but many customers choose to tune after their warranty expires. We offer a warranty on our tuning services."
+          "question": "How often should I change transmission fluid?",
+          "answer": "We recommend every 30,000 miles for severe use, or 60,000 miles for normal driving."
         },
         {
-          "question": "How much horsepower can I gain?",
-          "answer": "Gains vary by setup. A cold air intake and tune can add 20-30 hp. A supercharger kit with tuning can add 150+ hp. We'll give you realistic estimates during consultation."
+          "question": "Do you rebuild 10R80 transmissions?",
+          "answer": "Yes, we have the tools and expertise to rebuild the 10-speed automatic."
         }
       ],
-      "slug": "performance-tuning-upgrades"
+      "slug": "transmission-service"
     },
     {
-      "icon": "04",
-      "title": "Brake & Suspension Services",
-      "shortDescription": "Stop confidently and corner with precision using our brake and suspension expertise.",
-      "longDescription": "Your Mustang's braking and suspension systems are critical for safety and performance. We offer everything from pad replacements to full coilover installations, using top-tier components for street and track use.",
+      "icon": "03",
+      "title": "Brake & Suspension",
+      "shortDescription": "Brake pads, rotors, shocks, and suspension upgrades.",
+      "longDescription": "Keep your Mustang stopping and handling at its best. We offer brake inspections, pad and rotor replacements, as well as suspension upgrades for better performance and comfort.",
       "benefits": [
-        "Improved stopping power and pedal feel",
-        "Enhanced cornering and reduced body roll",
-        "Custom alignment tailored to your driving style",
-        "High-performance and OEM options available"
+        "Improved stopping power",
+        "Better handling and ride quality",
+        "Performance upgrade options available"
       ],
       "process": [
         {
           "title": "Inspection",
-          "description": "We check pad thickness, rotor condition, brake fluid, and suspension components for wear or damage."
+          "description": "We check brake pads, rotors, calipers, and suspension components."
         },
         {
-          "title": "Replacement/Upgrade",
-          "description": "We install your chosen parts with precision, torquing all fasteners to spec and using proper procedures."
+          "title": "Recommendation",
+          "description": "We provide options for OEM or performance parts based on your needs."
         },
         {
-          "title": "Test & Align",
-          "description": "After installation, we test the brakes for proper bedding and perform a four-wheel alignment to ensure optimal handling."
+          "title": "Installation & Test",
+          "description": "We install parts and test drive to ensure proper function."
         }
       ],
       "faqs": [
         {
-          "question": "How often should I replace my Mustang's brakes?",
-          "answer": "It depends on driving habits. Typically, front pads last 30,000-50,000 miles and rear pads 40,000-60,000 miles. We inspect them at every service and advise accordingly."
+          "question": "Can I upgrade to performance brakes?",
+          "answer": "Absolutely. We can install slotted rotors, performance pads, and stainless lines."
         },
         {
-          "question": "Do you offer performance suspension upgrades?",
-          "answer": "Yes, we carry brands like Ford Performance, Eibach, Bilstein, and KW. We can install lowering springs, adjustable coilovers, sway bars, and more to transform your Mustang's handling."
+          "question": "How long does a brake job take?",
+          "answer": "Most brake jobs are completed in 2-3 hours."
         }
       ],
-      "slug": "brake-suspension-services"
+      "slug": "brake-suspension"
+    },
+    {
+      "icon": "04",
+      "title": "Electrical & AC Service",
+      "shortDescription": "Diagnostics and repair for electrical systems and air conditioning.",
+      "longDescription": "From battery replacements to complex wiring issues, we handle all electrical and AC needs. Our team uses factory wiring diagrams and diagnostic tools to solve problems efficiently.",
+      "benefits": [
+        "Restores comfort and reliability",
+        "Fixes intermittent issues",
+        "AC recharge and component replacement"
+      ],
+      "process": [
+        {
+          "title": "System Scan",
+          "description": "We check battery, alternator, starter, and scan for fault codes."
+        },
+        {
+          "title": "AC Performance Test",
+          "description": "We measure pressure and temperature to diagnose AC issues."
+        },
+        {
+          "title": "Repair & Verify",
+          "description": "We repair or replace components and verify system operation."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "My Mustang's AC blows warm air. What's wrong?",
+          "answer": "Common causes include low refrigerant, a bad compressor, or a leak. We can diagnose and fix it."
+        },
+        {
+          "question": "Do you fix aftermarket stereo issues?",
+          "answer": "Yes, we can troubleshoot and repair electrical problems from aftermarket installations."
+        }
+      ],
+      "slug": "electrical-ac-service"
     }
   ],
   "about": {
-    "headline": "Dallas' Mustang Experts Since 1995",
-    "mission": "To provide Ford Mustang owners with expert, honest, and high-quality service that keeps their cars running at their best — whether on the street or the track.",
+    "headline": "Dallas' Trusted Mustang Specialists Since 1998",
+    "mission": "To provide expert, honest, and affordable Mustang repair and maintenance to the Dallas community.",
     "story": [
-      "Mustang Service Center was founded in 1995 by lifelong Mustang enthusiast John Miller. What started as a small two-bay shop has grown into Dallas' premier destination for Mustang care. John's philosophy was simple: treat every car like it's your own, and never cut corners. That commitment to quality and integrity quickly earned a loyal following among local Mustang owners.",
-      "Today, our team of ASE-certified technicians continues that tradition. We invest in the latest diagnostic equipment, ongoing training, and forge strong relationships with top parts suppliers. Whether you drive a classic '65 fastback or a 2024 Dark Horse, you can trust us to deliver the expertise and passion your Mustang deserves."
+      "Mustang Service Center was founded in 1998 by lifelong Mustang enthusiast John M. with a simple mission: offer specialized, high-quality service for Mustangs at a fair price. What started as a two-bay shop has grown into a full-service facility serving thousands of Mustang owners across Dallas.",
+      "Today, we continue that tradition with a team of certified technicians who share a passion for the Mustang brand. We invest in the latest diagnostic equipment and ongoing training to ensure every Mustang that leaves our shop is safe, reliable, and performing at its best. We treat every car as if it were our own."
     ],
     "highlight": {
-      "stat": "5,000+",
+      "stat": "5000+",
       "label": "Mustangs Serviced"
     },
     "coreValues": [
       {
         "title": "Expertise",
-        "description": "We focus exclusively on Ford Mustangs, ensuring deep knowledge of every generation and engine."
+        "description": "We focus exclusively on Mustangs, so we know them better than anyone."
       },
       {
-        "title": "Integrity",
-        "description": "We provide honest assessments, transparent pricing, and never recommend unnecessary repairs."
+        "title": "Honesty",
+        "description": "We provide transparent estimates and never recommend unnecessary repairs."
       },
       {
         "title": "Quality",
-        "description": "We use only premium parts and follow factory procedures to deliver lasting results."
+        "description": "We use OEM or better parts and stand behind our work with a warranty."
       },
       {
-        "title": "Passion",
-        "description": "We love Mustangs as much as our customers do, and it shows in every job we complete."
+        "title": "Community",
+        "description": "We support local Mustang clubs and events, and treat our customers like family."
       }
     ]
   },
   "contact": {
-    "headline": "Get in Touch with Mustang Service Center",
-    "subheadline": "Ready to book your service or have questions? Call or stop by — we're here to help.",
+    "headline": "Get in Touch",
+    "subheadline": "Call us or fill out the form to schedule your appointment.",
     "primaryCta": "Call (214) 824-6716",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
-      "Fort Worth",
-      "Arlington",
-      "Plano",
-      "Garland",
-      "Irving",
-      "Mesquite",
-      "Carrollton"
+      "Oak Lawn",
+      "Lakewood",
+      "Uptown",
+      "Highland Park",
+      "University Park",
+      "Park Cities",
+      "North Dallas"
     ]
   },
   "social_proof": {
-    "rating": 4.9,
+    "rating": "",
     "reviews": null
   },
   "meta": {
